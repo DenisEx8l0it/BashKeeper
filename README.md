@@ -7,7 +7,7 @@
 ![Automation](https://img.shields.io/badge/Automation-Scripting-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-**BashKeeper - это мощный инструмент, предназначенный для автоматизации Linux-систем 💨**
+**BashKeeper - это мощный инструмент, предназначенный для автоматизации Linux-систем, работающий на любом дистриубтиве с любым пакетным менджером💨**
 
 ![Скриншот интерфейса BashKeeper](https://raw.githubusercontent.com/DenisPythoneer/BashKeeper/main/image/Screenshot.png)
 
