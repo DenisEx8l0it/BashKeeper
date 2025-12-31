@@ -67,8 +67,6 @@ chmod +x main_script.sh
 sudo ./main_script.sh  
 ```
 
-##
-
 ---
 
 ## 📜 Лицензия
